@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "112433967959",
+    "project_id": "myece-uop-notifications",
+    "storage_bucket": "myece-uop-notifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112433967959:android:d9951a3554876c1cbc8412",
+        "android_client_info": {
+          "package_name": "net.dimitrisiliou.myhmmy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112433967959-rkiu2ae7e3ih450jncnugej3i61rnq24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0uRrg44xZ0iGHDItr9wVw5noFaWQYrps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112433967959-rkiu2ae7e3ih450jncnugej3i61rnq24.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
