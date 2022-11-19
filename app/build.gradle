@@ -2,7 +2,7 @@ apply plugin: 'com.android.application'
 
 
 android {
-    compileSdkVersion 30
+    compileSdkVersion 32
     buildToolsVersion "30.0.3"
 
     compileOptions {
@@ -12,9 +12,9 @@ android {
     defaultConfig {
         applicationId "net.dimitrisiliou.myhmmy"
         minSdkVersion 24
-        targetSdkVersion 30
-        versionCode 10
-        versionName "1.10"
+        targetSdkVersion 32
+        versionCode 13
+        versionName "1.13"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
