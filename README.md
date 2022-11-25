@@ -24,4 +24,6 @@
 Ποτέ μην δουλεύετε απευθείας στο main/master branch. Για κάθε μικρή ή μεγαλη αλλαγή πάντα(!) φτιάχνουμε ενα καινούργιο branch και όταν ολοκληρώσουμε δημιουργούμε ένα pull request.
 
 ## Προβολή των Error
+https://dimitrisiliou.atlassian.net/jira/servicedesk/projects/CSM/queues/custom/3
 
+Ζητηστε προσβαση απο το Slack
