@@ -6,7 +6,7 @@
 
 Εάν θέλετε να βοηθήσετε και να συνεισφέρετε στο project ακολουθήστε τις παρακάτω οδηγίες!
 
-Σε περίπτωση που έχετε ερωτήσεις [ρωτήστε στο Slack](https://join.slack.com/t/slack-m1g7312/shared_invite/zt-1kg2rp2cl-Q1cdNJsvKzfeAA1SISoeSw)
+Σε περίπτωση που έχετε απορίες [ρωτήστε στο Slack](https://join.slack.com/t/slack-m1g7312/shared_invite/zt-1kg2rp2cl-Q1cdNJsvKzfeAA1SISoeSw)
 
 ## Εγκατάσταση 
 
@@ -27,3 +27,9 @@
 https://dimitrisiliou.atlassian.net/jira/servicedesk/projects/CSM/queues/custom/3
 
 Ζητηστε προσβαση απο το Slack
+
+## Links και Επαφές
+- Community: [Slack](https://join.slack.com/t/slack-m1g7312/shared_invite/zt-1kg2rp2cl-Q1cdNJsvKzfeAA1SISoeSw)
+- [Google Play](https://play.google.com/store/apps/details?id=net.dimitrisiliou.myhmmy)
+- Developer: [Δημήτρης Ηλιού.](https://www.linkedin.com/in/dimitrisiliou/)
+- Yπευθυνος Καθηγητης: [Σωτηρης Χριστοδούλου](https://www.ece.uop.gr/staff/sotiris-p-christodoulou/)
